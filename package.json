@@ -1,0 +1,19 @@
+{
+  "name": "node-automatized-youtube-video-maker",
+  "version": "1.0.0",
+  "description": "Automatized Youtube Video Creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacmeira/Node-Automatized-youtube-video-maker.git"
+  },
+  "author": "Isaac Meira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isaacmeira/Node-Automatized-youtube-video-maker/issues"
+  },
+  "homepage": "https://github.com/isaacmeira/Node-Automatized-youtube-video-maker#readme"
+}

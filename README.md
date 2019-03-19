@@ -1,2 +1,2 @@
-# Node-Automatized-youtube-video-maker
-Automatized youtube video maker using Watson (A IBM Artificial Inteligence and Node.JS)
+# video-maker
+Projeto open source para fazer vídeos automatizados

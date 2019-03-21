@@ -1,2 +1,2 @@
 # video-maker
-Projeto open source para fazer vídeos automatizados
+Open source projecto to make a automated youtube video maker

@@ -1,25 +1,26 @@
-# credentials format
+# Credentials format
 
 ## Algorithmia
 
-File : `algorithmia.json`
+File: `algorithmia.json`
 
 ```
 {
-    "apiKey" : "simpXrbH3bs0UY7pbOv1aBTh33V1"
+  "apiKey": "sim8As72h56j3mBYqEOSHfLE4k81"
 }
 ```
 
 ## Watson Natural Language Understanding
 
-File : `watson-nlu.json`
+File: `watson-nlu.json`
 
 ```
-    "apikey": "7srMOuZ4uyGZULsgJ4HJX1LNb1RkViNOM7XUcOTVoYak",
-    "iam_apikey_description": "Auto generated apikey during resource-key operation for Instance - crn:v1:bluemix:public:natural-language-understanding:us-south:a/b44dbb203c0a4a29a543d800d17e7718:af9d3a6b-8a41-4f43-9803-922867feb370::",
-    "iam_apikey_name": "auto-generated-apikey-acef7bb8-0f74-4f28-8fbb-49980937fdaa",
-    "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
-    "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/b44dbb203c0a4a29a543d800d17e7718::serviceid:ServiceId-124dea38-c5aa-45f5-b0fe-a264f105d48b",
-    "url": "https://gateway.watsonplatform.net/natural-language-understanding/api"
-  }
-  ````
+{
+  "apikey": "Qynm-JBOd9m7JqEAFSvSt4feydYO4Pt0xYvAfaNEY2LW",
+  "iam_apikey_description": "Auto generated apikey during resource-key operation for Instance - crn:v1:bluemix:public:natural-language-understanding:us-south:a/ffcb2c250e19bc335de2e9f1533711c8:4423b565-1e77-4d4c-a56e-656b3af7ac0d::",
+  "iam_apikey_name": "auto-generated-apikey-27b6655f-6a69-40ba-a46a-60ae25b6d10a",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/ffcb2c250e19bc335de2e9f1533711c8::serviceid:ServiceId-3b990ca3-62e6-4445-b303-84239f956d01",
+  "url": "https://gateway.watsonplatform.net/natural-language-understanding/api"
+}
+```
